@@ -1,0 +1,13 @@
+container-fluid {
+  min-width: 600px;
+}
+.side-bar {
+  background-color: #393a44;
+  min-width: 300px;
+}
+
+.watcher{
+  margin: 10px auto;
+  bottom: 0;
+  position: absolute;
+}
